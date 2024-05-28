@@ -1,0 +1,32 @@
+.rectangle {
+    width: 80%;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    overflow: hidden;
+    display: flex;
+    top: 300px;
+  }
+  
+  .rubrique {
+    flex: 1; 
+    height: 100px;
+    background-color: #f0f0f0;
+    display: flex; 
+    justify-content: center; 
+  }
+  
+  .separator {
+    width: 1px; 
+    height: 100%;
+    background-color: #119DD9; 
+  }
+
+  .vector {
+    height: 30px;
+    justify-content:start;
+    width: 30px;
+  }
+
+
+  

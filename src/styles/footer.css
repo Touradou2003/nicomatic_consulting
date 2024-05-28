@@ -1,0 +1,9 @@
+.color-band {
+    width: 100%;
+    height: 400px;
+    bottom: 0%;
+    background-color: #3498db; 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+}
