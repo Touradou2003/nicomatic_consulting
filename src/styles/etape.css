@@ -4,6 +4,9 @@
     justify-content: center;
     margin-top: 20px;
     padding-bottom: 20%;
+
+}
+#etapeSection{
 }
 
 .step {
@@ -20,7 +23,40 @@
 
 h1{
   padding-bottom: 30%;
-  font-weight: 900;
-  font-style: italic;
+  font-weight: 1000;
+  font-style:normal;
   font-size: x-large;
+  
 }
+.titreEtape
+{
+
+  font-weight: 1000;
+  font-style:normal;
+  font-size: 40px;
+  font-size: 1000;
+  text-align: center;
+  justify-content: center;
+  padding-top: 3%;
+  height: 50px;
+  z-index: 1;
+  padding-bottom: 200px;
+}
+.texte{
+  height: 100px;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+}
+
+.anneau {
+  width: 300px; /* Diamètre extérieur de l'anneau */
+  height: 300px; /* Diamètre extérieur de l'anneau */
+  border: 15px solid #fff947; /* Épaisseur et couleur de l'anneau */
+  border-radius: 50%; /* Pour rendre le bord circulaire */
+  box-sizing: border-box; 
+  background-color: white; 
+  margin-left: 50%;
+}
+

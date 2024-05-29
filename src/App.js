@@ -1,12 +1,16 @@
 import Decouvrir from "./components/decouvrir.js"
+import Header from "./components/header.js"
 import Footer from "./components/footer.js"
 import Etape from "./components/etape.js"
-import Debut from "./components/debut.js"
+import Halo from "./components/halo.js"
+
 
 export default function App() {
   return (
     <>
-          <Debut />
+    <div class="body"></div>
+          <Header />
+          <Halo />
           <Etape />
           <Decouvrir />
           <Footer />
