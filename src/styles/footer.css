@@ -1,9 +1,33 @@
-.color-band {
-    width: 100%;
-    height: 400px;
-    bottom: 0%;
-    background-color: #3498db; 
-    color: #fff; 
-    padding: 20px; 
-    text-align: center; 
+footer {
+    background-color: #119dd9;
+    color: #FFFFFF;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Styles pour les liens */
+footer a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer .social-icons {
+    display: flex;
+    margin-top: 20px;
+}
+
+footer .social-icons a {
+    font-size: 20px;
+    margin: 0 10px;
+}
+.demi-cercle {
+    width: 100px; /* Largeur du cercle complet */
+    height: 50px; /* Hauteur pour le demi-cercle */
+    background-color:#fff947; /* Transparent pour montrer le demi-cercle par les bordures */
+    border-top-left-radius: 100px; /* Arrondi pour former un demi-cercle */
+    border-top-right-radius: 100px; /* Arrondi pour former un demi-cercle */
+    border: 50px solid transparent; /* Largeur et transparence des bordures pour le positionnement */
+    border-bottom: 0; /* Pas de bordure en bas pour former le demi-cercle */
+    border-top: 50px solid #fff947; /* Bordure supérieure colorée pour former le demi-cercle */
 }
