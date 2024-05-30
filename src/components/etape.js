@@ -5,17 +5,8 @@ export default function Etape(){
     return(
         <>
  <div class="texte">
-                <h1 class="titreEtape">Notre ADN!</h1>
+                <h1 id="ADN">Nos services</h1>
             </div>
-            <p>Chez<strong>Nicomatic Sénégal</strong>, notre ADN est façonné par quatre valeurs fondamentales qui guident chacune de nos actions.
-La confiance en notre capacité à faire est au cœur de notre approche, nous permettant d'aborder chaque projet avec assurance et détermination. Nous croyons fermement en notre expertise et en notre potentiel à réaliser des solutions innovantes et efficaces.
-L'interconnexion est une valeur essentielle, symbolisant la création de synergies entre nos experts internationaux et nos partenaires locaux. Cette collaboration enrichissante nous permet de partager et de multiplier les connaissances, les compétences et les ressources, renforçant ainsi notre impact collectif.
-L'innovation est notre moteur. Nous nous efforçons constamment d'explorer de nouvelles idées, de repousser les limites technologiques et d'apporter des solutions avant-gardistes à nos clients.
-Enfin, nous avons une volonté inébranlable d'avoir un impact positif dans l'industrie sénégalaise. Chaque initiative que nous entreprenons vise à contribuer au développement durable et à la prospérité de l'industrie locale, en alignant nos efforts avec les besoins et les aspirations de notre communauté.
-L'excellence du service est notre leitmotiv et l'essence même de Nicomatic Sénégal NSN. Nous tenons à ce que nos clients soient aussi fiers de travailler avec nous que nous le sommes de collaborer avec eux.
-Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et de notre engagement envers l'excellence industrielle.
-</p>
-
 <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
     <div className="flex flex-wrap w-full">
@@ -39,11 +30,19 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">
-              STEP 1
-            </h2>
+            Informatique             </h2>
             <p className="leading-relaxed">
-            Une Expertise Technologique à la Pointe
-            </p>
+            Édition de Logiciels et d’Applications Web et Mobile
+Développement de logiciels et applications sur mesure pour des performances optimales et une expérience utilisateur exceptionnelle.
+Projets Liés aux Données
+Business Intelligence (BI) / 
+Big Data /
+Gouvernance de Données /
+Pilotage de Projet Data / 
+Intelligence Artificielle (IA) : Intégration de solutions IA pour automatiser et optimiser vos processus/
+Maintenance Applicative et Évolutive/
+Gestion de Projets
+       </p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -65,11 +64,13 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">
-              STEP 2
+            Ingénierie Électro Mécanique           
             </h2>
             <p className="leading-relaxed">
-            Expertise Technologique à la Pointe et Sourcing Industriel : La Clé de l'Efficacité
-            </p>
+            Design et Conception:
+Création de produits et composants innovants adaptés aux besoins industriels/
+Prototypage et Réalisation/
+Transformation des concepts en prototypes fonctionnels et produits finis, prêts pour la production.           </p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -92,11 +93,10 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">
-              STEP 3
-            </h2>
+            Achat Industriel               </h2>
             <p className="leading-relaxed">
-            Ingénierie et Design : De l'Idée à la Réalité
-            </p>
+            Service de Sourcing:
+Identification et approvisionnement des meilleurs composants pour garantir la qualité et la fiabilité de vos opérations industrielles.           </p>
           </div>
         </div>
         <div className="flex relative pb-12">
@@ -119,11 +119,10 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
           </div>
           <div className="flex-grow pl-4">
             <h2 className="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">
-              STEP 4
+            Des Projets Réussis, des Clients Satisfaits 
             </h2>
             <p className="leading-relaxed">
-            Solutions Informatiques sur Mesure avec un Un impact positif et durable
-            </p>
+            Nous offrons des solutions sur mesure adaptées spécifiquement à vos besoins, assurant ainsi des résultats optimaux.                        </p>
           </div>
         </div>
         <div className="flex relative">
@@ -145,14 +144,13 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
             <h2 className="font-medium title-font text-sm text-gray-900 mb-1 tracking-wider">
               FINISH
             </h2>
-            <p className="leading-relaxed">
-            Des Projets Réussis, des Clients Satisfaits            </p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
 
         </>
     )

@@ -1,8 +1,8 @@
-#debut {
+#Description {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 120vh;
+    height: 110vh;
     margin: 0;
     
 }
@@ -15,6 +15,7 @@
     background-color: #ffffff;
     border-radius: 15px; /* Coins arrondis */
     overflow: hidden; 
+    position:relative;
 }
 .section {
     flex: 1;
@@ -45,14 +46,15 @@
 .minilogo {
     width: 20px;
     height: auto;
+    margin-top:-10px ;
     
     margin-right: 5px; 
 }
 .titre {
     font-size: 14px;
-    padding-top: 30px;
+    padding-top:35px;
     margin: 0; 
 }
 p {
-    margin-top: 50px; /* Pour éviter le chevauchement avec le logo et le titre */
+    padding-top: 45%;
 }

@@ -9,7 +9,7 @@ export default function Decouvrir()
 {
     return(
         <>
-        <h2>Découvrez nos autres services</h2>
+        <h2 id="Decouverte">Découvrez nos autres services</h2>
         
           <div class="container">
         <button class="box">

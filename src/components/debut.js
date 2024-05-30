@@ -6,28 +6,28 @@ import vector from "../assets/Vector.png"
 export default function Debut(){
     return(
         <>
-        <section id="debut">
+        <section id="Description">
     <div class="rectangle">
         <div class="section">
             <div class="header">
                 <img class="minilogo" src={vector} alt=""/>
-                <h1 class="titre">Valorisation</h1>
+                <h1 class="titre">Expertise et Innovation</h1>
             </div>
-            <p>Valorisation de la production agricole locale grâce à des machines de transformation innovantes...</p>
+            <p>Nos équipes sont composées de professionnels expérimentés, utilisant...</p>
         </div>
         <div class="section">
             <div class="header">
                 <img class="minilogo" src={vector} alt=""/>
-                <h1 class="titre">Conception innovante</h1>
+                <h1 class="titre">Solutions Personnalisées</h1>
             </div>
-            <p>Développement et conception de machines de transformation agricole innovantes ...</p>
+            <p>Nous offrons des solutions sur mesure adaptées spécifiquement à vos besoins, assurant...</p>
         </div>
         <div class="section">
             <div class="header">
                 <img class="minilogo" src={vector} alt=""/>
-                <h1 class="titre">Maintenance et Support</h1>
+                <h1 class="titre">Engagement et Fiabilité</h1>
             </div>
-            <p>Service complet de maintenance et support technique pour garantir la performance et...</p>
+            <p>Nous respectons les délais et les budgets, tout en maintenant un haut niveau...</p>
         </div>
     </div>
     </section>
