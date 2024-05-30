@@ -3,10 +3,6 @@ import carousel from "../assets/carousel.png"
 
 
 
-
-
-
-
 export default function Carousel()
 {
     return(
@@ -14,8 +10,8 @@ export default function Carousel()
         <section id="carousel">
             <div class="texteCarousel">
                 <h1  class="titreCarousel">Nos machines</h1>
-                <p class="paragrapheCarousel">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, quidem.</p>
             </div>
+                <p class="paragrapheCarousel">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, quidem.</p>
         </section>
         <section className="body">
         <div class="carousel">
@@ -24,22 +20,22 @@ export default function Carousel()
                 <img src={carousel} alt=" 1"/>
                 <div class="rectangle2">
                  <h1>Machine Arraw</h1>
-                 <p>Paragraphe ici.</p>
                  </div>
+                 <p>Optimisez la transformation de vos céréales avec les machines de Nicomatic Sénégal...</p>
             </div>
             <div class="carousel-item">
                 <img src={carousel} alt=" 2"/>
                 <div class="rectangle2">
-        <h1>Machine jus mangue</h1>
-        <p>Paragraphe ici.</p>
+        <h1>Machine Mangue</h1>
     </div>
+        <p>Transformez vos mangues avec les machines de transformation de mangue de Nicomatic Sénégal...</p>
             </div>
             <div class="carousel-item">
                 <img src={carousel} alt=" 3"/>
                 <div class="rectangle2">
-        <h1>Machine jus cajoux</h1>
-        <p>Paragraphe ici.</p>
+        <h1>Machine Cajoux</h1>
     </div>
+        <p>Découvrez les machines de fabrication de jus de cajou de Nicomatic Sénégal, conçues pour ...</p>
             </div>
         </div>
     </div>
