@@ -1,6 +1,6 @@
 import "../styles/decouvrir.css"
 import campus from "../assets/campus.png"
-import consulting from "../assets/consulting.png"
+import factory from "../assets/factory.png"
 import studio from "../assets/studio.png"
 
 
@@ -13,8 +13,8 @@ export default function Decouvrir()
         
           <div class="container">
         <button class="box">
-            <img src={consulting} alt=""/>
-            <h1>Consulting</h1>
+            <img src={factory} alt=""/>
+            <h1>Factory</h1>
             
         </button>
         <button class="box">

@@ -5,9 +5,16 @@ export default function Etape(){
     return(
         <>
  <div class="texte">
-                <h1 class="titreEtape">Le process ?</h1>
+                <h1 class="titreEtape">Notre ADN!</h1>
             </div>
-            <p>Chez<strong>Nicomatic Sénégal</strong>, nous nous spécialisons dans la fabrication de machines sur mesure pour répondre précisément aux besoins de nos clients. Le processus commence par une consultation approfondie où le client décrit ses exigences spécifiques. Ensuite, nous prenons en charge la conception, le design, le prototypage, et la réalisation de la machine. Enfin, nous assurons la maintenance continue de ces machines de transformation sur mesure. Nous collaborons avec des partenaires locaux de renom, tels que l'École Supérieure Polytechnique et la CFPT, pour la fabrication. En intégrant l'expertise de notre maison mère, Nicomatic, spécialiste en connectique depuis 1976, avec les compétences locales, nous garantissons des solutions de transformation agricole de haute qualité. Nos connaissances en mécanique, électronique et informatique nous permettent d'offrir un processus de fabrication optimisé, assurant des machines fiables et performantes.</p>
+            <p>Chez<strong>Nicomatic Sénégal</strong>, notre ADN est façonné par quatre valeurs fondamentales qui guident chacune de nos actions.
+La confiance en notre capacité à faire est au cœur de notre approche, nous permettant d'aborder chaque projet avec assurance et détermination. Nous croyons fermement en notre expertise et en notre potentiel à réaliser des solutions innovantes et efficaces.
+L'interconnexion est une valeur essentielle, symbolisant la création de synergies entre nos experts internationaux et nos partenaires locaux. Cette collaboration enrichissante nous permet de partager et de multiplier les connaissances, les compétences et les ressources, renforçant ainsi notre impact collectif.
+L'innovation est notre moteur. Nous nous efforçons constamment d'explorer de nouvelles idées, de repousser les limites technologiques et d'apporter des solutions avant-gardistes à nos clients.
+Enfin, nous avons une volonté inébranlable d'avoir un impact positif dans l'industrie sénégalaise. Chaque initiative que nous entreprenons vise à contribuer au développement durable et à la prospérité de l'industrie locale, en alignant nos efforts avec les besoins et les aspirations de notre communauté.
+L'excellence du service est notre leitmotiv et l'essence même de Nicomatic Sénégal NSN. Nous tenons à ce que nos clients soient aussi fiers de travailler avec nous que nous le sommes de collaborer avec eux.
+Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et de notre engagement envers l'excellence industrielle.
+</p>
 
 <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto flex flex-wrap">
