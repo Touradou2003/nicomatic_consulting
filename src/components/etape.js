@@ -42,7 +42,7 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
               STEP 1
             </h2>
             <p className="leading-relaxed">
-            Nos Services - Machines de Transformation Agricole sur Mesure
+            Une Expertise Technologique à la Pointe
             </p>
           </div>
         </div>
@@ -68,7 +68,7 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
               STEP 2
             </h2>
             <p className="leading-relaxed">
-            Machines de Transformation de Mangue - Nicomatic Sénégal
+            Expertise Technologique à la Pointe et Sourcing Industriel : La Clé de l'Efficacité
             </p>
           </div>
         </div>
@@ -95,7 +95,7 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
               STEP 3
             </h2>
             <p className="leading-relaxed">
-            Machines de Fabrication de Jus de Cajou - Nicomatic Sénégal
+            Ingénierie et Design : De l'Idée à la Réalité
             </p>
           </div>
         </div>
@@ -122,7 +122,7 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
               STEP 4
             </h2>
             <p className="leading-relaxed">
-            Explorez la gamme de produits de Nicomatic Sénégal, incluant des machines de transformation de mangue, de jus de cajou et de céréales.
+            Solutions Informatiques sur Mesure avec un Un impact positif et durable
             </p>
           </div>
         </div>
@@ -146,8 +146,7 @@ Ces valeurs définissent Nicomatic Sénégal et sont la clé de notre succès et
               FINISH
             </h2>
             <p className="leading-relaxed">
-            Découvrez les machines de fabrication de jus de cajou de Nicomatic Sénégal, conçues pour valoriser les pommes de cajou et maximiser les revenus des producteurs.
-            </p>
+            Des Projets Réussis, des Clients Satisfaits            </p>
           </div>
         </div>
       </div>

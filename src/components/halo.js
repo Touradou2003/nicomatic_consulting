@@ -1,5 +1,5 @@
 import "../styles/halo.css"
-import halo from "../assets/halo.png"
+import halo from "../assets/groupe1.jpg"
 import Debut from "./debut.js"
 
 
